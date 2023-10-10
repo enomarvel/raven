@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+    margin: 0;
+}
+nav{
+    flex: 1;
+    text-align: right;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none; 
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.ip{
+    background-image: url(Enoch.webp);
+    background-size: cover;
+    background-position: center;
+}
+p{
+    color: #555;
+} 
+.container{
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 5%;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2{
+    text-align: center;
+    padding: 0px;
+    margin: 0;
+}
+.col-2 h1{
+    font-size: 50px;
+    line-height: 60px;
+    margin: 25px 0;
+    color: #fff;
+}
+b{
+    color: red;
+}
+.logo{
+    color: #fff;
+}
+p{
+    color: #fff;
+}
+/*-------- red line ---------*/
+.red-line{
+    background-color: red;
+    padding: 1px;
+}
+h3{
+    color: white;
+}
+.navba{
+    display: flex;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+    margin: 0;
+}
+.know{
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 5%;
+}
+.log{
+    color: #fff;
+}
+.input_fields{
+    text-align: right;
+}   
+.navba{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    background-color: black;
+}
+.de{
+    flex: 1;
+    text-align: right;
+}
+.de ul{
+    display: inline-block;
+    list-style-type: none; 
+}
+.de ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+.button {
+	background-color: red;
+    Padding: 10px 60px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.button:hover {
+	background-color: darkred;
+    Padding: 11px 51px;
+    font-weight: bold;
+}
+.work{
+    flex: 1;
+    text-align: center;
+}
+.work ul{
+    display: inline-block;
+    list-style-type: none; 
+}
+img{
+    height: 10vh;
+}
+.work ul li{
+    display: inline-block;
+    margin-right: 10px;
+}
+.work, .work1 p{
+    
+    color: black;
+    font-size: 10px;
+}
+.work, .work3 p{
+    color: black;
+    font-size: 10px;
+}
+.work, .work2 p{
+    color: black;
+    font-size: 10px;
+}
+/*--copyright--*/
+.copyright{
+    background-color: red;
+    padding: 10px;    
+}
+.copyright p{
+    color: white;
+    text-align: center;
+}
+.contain{
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 5%;
+}
+.navb{
+    align-items: center;
+    background-color: white;
+    padding: 0px;
+    margin: 2px;
+}
+.con{
+    margin: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 5px;
+    
+}   
